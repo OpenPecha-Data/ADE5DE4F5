@@ -1,0 +1,19 @@
+segment_sources:
+  I6F4654A9:
+    type: origin_type
+    relation: translation
+    language: en
+  I9179EDF9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ebe230226c664964af836542caf9f3f6:
+    I6F4654A9: e5e0ca27467e4e959c0c5a90570e63f8
+    I9179EDF9: 65181ee31ad542c19208bb5a9bb217dd
+  936f39fcfcfa4ecfae8519a5273ecdd7:
+    I6F4654A9: 44b8c6bd962e439fa0db25aa4c69f5da
+    I9179EDF9: 4eac1f837ee74290b76930abffe4af3d
+  ab4645c6039f4d85be38b56c9aa990b7:
+    I6F4654A9: 228117e9f6974ec9a555c7ed5d35d416
+    I9179EDF9: 06b76898894f427989cd2231781e01af
